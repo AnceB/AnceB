@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ance and I'm a graphic designer
-- 👀 I’m interested in moving into the tech industry
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on something to practise my newfound knowledge on
+- 👀 I’m interested in transitioning to the tech industry, Front-end and UX/UI
+- 🌱 I’m currently learning HTML and CSS, trying things out with Figma 
+- 💞️ I’m looking to collaborate on something to practice my newfound knowledge on
 - 📫 Reach me via e-mail ance.bumbule@gmail.com or www.linkedin.com/in/ance-bumbule
 
 <!---
