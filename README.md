@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ance and I'm a graphic designer
 - 👀 I’m interested in transitioning to the Tech industry
-- 🌱 I’m currently learning HTML and CSS 
+- 🌱 I’ currently learning HTML, CSS and JavaScript 
 - 💞️ I’m looking to collaborate on something to practice my newfound knowledge on
 - 📫 Reach me via e-mail ance.bumbule@gmail.com or www.linkedin.com/in/ance-bumbule
 
